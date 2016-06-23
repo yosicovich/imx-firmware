@@ -1,5 +1,5 @@
 To get the source code of the uboot:
-  git clone http://git.freescale.com/git/cgit.cgi/imx/uboot-imx.git
+  git clone http://git.freescale.com/git/cgit.cgi/imx/uboot-imx.git -b imx_v2015.04_brillo
 
 To build u-boot.imx for picoimx board:
   Assume checkout uboot code to ~/uboot-imx, brillo root dir is ~/mybrillo.
